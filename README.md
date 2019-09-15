@@ -1,4 +1,4 @@
-![](images/degree-bulder-desktop.png.png)
+![](images/degree-bulder-desktop.png)
 ![](images/degree-builder-mobile.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
