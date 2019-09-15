@@ -1,0 +1,28 @@
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.courseSubject {
+    grid-row-start: 1;
+    grid-column-start: 2;
+    border: 1px solid rgba(34, 36, 38, .15);
+  
+}
+
+.courseSubject select {
+    margin-top: 10px;
+}
+
+.grid2 {
+    display: grid;
+}
+
+@media(max-width: 600px) {
+    .grid {
+       display: initial;
+    }
+}

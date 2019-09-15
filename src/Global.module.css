@@ -1,0 +1,30 @@
+.grid {
+    display: grid;
+    gap: 19px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.space {
+    padding: 20px 0 20px 0;
+}
+
+select {
+    border: 2px solid #00827c;
+    border-radius: 25px;
+    height: 27px;
+}
+
+@media(max-width: 500px) {
+    .grid {
+        justify-items: center;
+    }
+    select {
+        width: 80%;
+    }
+}
+@media(max-width: 400px) {
+    select {
+        width: 70%;
+    }
+}
