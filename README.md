@@ -1,3 +1,8 @@
+A react app that allows users to create university degrees by inserting or deleting university classes within the selected degree concentration. This app was mainly intended to be used by university staff to make degree plans an easier process. 
+It utilizes Node with MySQL for the backend and handles the retrieval of data and its modifications.  
+https://github.com/gustavoweb33/degree-builder-backend
+
+
 
 Desktop View
 ![](images/degree-bulder-desktop.png)
